@@ -1,4 +1,4 @@
-This is Ecommerce Website
+This is a Ecommerce Website
 
 Technologies used 
 
